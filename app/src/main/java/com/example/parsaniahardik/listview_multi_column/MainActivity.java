@@ -7,7 +7,7 @@ import android.widget.ListView;
 import java.util.ArrayList;
 
 public class MainActivity extends AppCompatActivity {
-
+    // Array List
     private String[] Products = new String[]{"Pizza", "Burger", "Pasta", "Salad", "Rice","Sandwich","Chips"};
     private int[] Qty = new int[]{3, 4, 2, 1, 5,8,20};
     private ArrayList<FoodModel> foodModelArrayList;
